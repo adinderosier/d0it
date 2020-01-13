@@ -18,10 +18,18 @@
     <ClCompile Include="d0it.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="facerecog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="D-0it.docx">
       <Filter>Resource Files</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="facerecog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

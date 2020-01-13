@@ -148,9 +148,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="d0it.cpp" />
+    <ClCompile Include="facerecog.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="D-0it.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="facerecog.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
