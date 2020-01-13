@@ -1,4 +1,4 @@
-//D-Oit 2020 OIT INVENTORS CLUB
+//D-OIT 2020 OIT INVENTORS CLUB
 // Contributors: Adin De'Rosier, Christopher Koop
 
 /*DOCUMENTATION
