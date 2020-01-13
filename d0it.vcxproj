@@ -149,6 +149,9 @@
   <ItemGroup>
     <ClCompile Include="d0it.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="D-0it.docx" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
