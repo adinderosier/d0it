@@ -6,7 +6,10 @@ Documentation can be found primarily on the GIT repository at https://github.com
 This .cpp is for facial recognition in the D-0 robot.
 */
 //INCLUDES
+#include "facerecog.h"
 
 //MAIN
+int main() {
 
+}
 //EOF

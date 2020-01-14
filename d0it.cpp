@@ -7,6 +7,10 @@ This .cpp is the main code for the D-0 robot.
 */
 //INCLUDES
 
-//MAIN
+//FUNCTIONS
 
+//MAIN
+int main() {
+
+}
 //EOF
